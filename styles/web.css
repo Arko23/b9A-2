@@ -661,10 +661,10 @@ height: 1910px;
   width: 380px;
 }
 .sec-des-first{
-width: 370px;
+width: 305px;
 }
 .sec-des-second{
-width: 370px;
+width: 305px;
 }
 
 .sec-des-2 {
@@ -673,13 +673,13 @@ width: 370px;
  width: 380px;
 }
 .sec-des-third{
-  width: 370px;
+  width: 305px;
 }
 .sec-des-fourth{
- width: 370px;
+ width: 305px;
 }
 .sec-des-fifth{
- width: 370px;
+ width: 305px;
 }
 .sec-des-3 {
  flex-direction: column;
@@ -689,10 +689,10 @@ width: 370px;
 
 
 .sec-des-sixth{
- width: 370px;
+ width: 305px;
 }
 .sec-des-seventh{
-width: 370px;
+width: 305px;
 }
 .sec-us{
    padding-left: 10px;
@@ -703,13 +703,13 @@ width: 370px;
  flex-direction: column;
 }
 .card-f {
-   width: 350px;
+   width: 290px;
    height: 400px;
 }
 .card-f h4{
   font-size: 1rem;
   text-align: center;
-  padding-right: 130px;
+  padding-right: 100px;
 }
 .card-f p{
    padding: 50px;
@@ -718,13 +718,13 @@ width: 370px;
 }
 
 .card-s{
-   width: 350px;
+   width: 290px;
    height: 400px;
 }
 .card-s h4{
   font-size: 1rem;
   text-align: center;
-  padding-right: 130px;
+  padding-right: 80px;
 }
 .card-s p{
     padding: 50px;
@@ -736,18 +736,18 @@ width: 370px;
   flex-direction: column;
 }
 .card-t{
-  width: 350px;
+  width: 290px;
    height: 400px;
 }
 
 .card-t h4{
    font-size: 1rem;
   text-align: center;
-  padding-right: 130px;
+  padding-right: 50px;
  
 }
 .card-t p{
- padding: 50px;
+ padding: 40px;
    padding-top: 1px;
    padding-bottom: 0px;
 }
