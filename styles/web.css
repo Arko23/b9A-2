@@ -661,10 +661,10 @@ height: 1910px;
   width: 380px;
 }
 .sec-des-first{
-width: 380px;
+width: 370px;
 }
 .sec-des-second{
-width: 380px;
+width: 370px;
 }
 
 .sec-des-2 {
@@ -673,13 +673,13 @@ width: 380px;
  width: 380px;
 }
 .sec-des-third{
-  width: 380px;
+  width: 370px;
 }
 .sec-des-fourth{
- width: 380px;
+ width: 370px;
 }
 .sec-des-fifth{
- width: 380px;
+ width: 370px;
 }
 .sec-des-3 {
  flex-direction: column;
@@ -689,10 +689,10 @@ width: 380px;
 
 
 .sec-des-sixth{
- width: 380px;
+ width: 370px;
 }
 .sec-des-seventh{
-width: 380px;
+width: 370px;
 }
 .sec-us{
    padding-left: 10px;
@@ -703,7 +703,7 @@ width: 380px;
  flex-direction: column;
 }
 .card-f {
-   width: 360px;
+   width: 350px;
    height: 400px;
 }
 .card-f h4{
@@ -718,7 +718,7 @@ width: 380px;
 }
 
 .card-s{
-   width: 360px;
+   width: 350px;
    height: 400px;
 }
 .card-s h4{
@@ -736,7 +736,7 @@ width: 380px;
   flex-direction: column;
 }
 .card-t{
-  width: 360px;
+  width: 350px;
    height: 400px;
 }
 
