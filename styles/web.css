@@ -182,7 +182,7 @@ nav li a{
     height: 300px;
     /* border: 2px tomato solid; */
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("../images/Rectangle\ 5.png") center/cover no-repeat, lightgray 50%;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../images/Rectangle\ 5.png') center/cover no-repeat, lightgray 50%;
 
 }
 .sec-des-second{
@@ -222,7 +222,7 @@ nav li a{
     height: 300px;
     /* border: 2px tomato solid; */
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("../images/Rectangle\ 6.png") center/cover no-repeat, lightgray 50%;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../images/Rectangle\ 6.png') center/cover no-repeat, lightgray 50%;
 
 }
 .sec-des-fourth{
@@ -233,7 +233,7 @@ nav li a{
     height: 300px;
     /* border: 2px tomato solid; */
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("../images/Rectangle\ 7.png") center/cover no-repeat, lightgray 50%;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../images/Rectangle\ 7.png') center/cover no-repeat, lightgray 50%;
 }
 .sec-des-fifth{
     display: flex;
@@ -243,7 +243,7 @@ nav li a{
     height: 300px;
     /* border: 2px tomato solid; */
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("../images/Rectangle\ 9.png") center/cover no-repeat, lightgray 50%;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../images/Rectangle\ 9.png') center/cover no-repeat, lightgray 50%;
 
 }
 .pp3{
@@ -277,7 +277,7 @@ nav li a{
     height: 300px;
     /* border: 2px tomato solid; */
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("../images/Rectangle\ 11.png") center/cover no-repeat, lightgray 50%;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../images/Rectangle\ 11.png') center/cover no-repeat, lightgray 50%;
 
 }
 .sec-des-seventh{
@@ -288,7 +288,7 @@ nav li a{
     height: 300px;
     /* border: 2px tomato solid; */
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("../images/Rectangle\ 10.png") center/cover no-repeat, lightgray 50%;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../images/Rectangle\ 10.png') center/cover no-repeat, lightgray 50%;
 
 }
 .pp6{
